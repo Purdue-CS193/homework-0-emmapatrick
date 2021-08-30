@@ -1,4 +1,4 @@
-## Welcome to Emma's Website
+## Emma's First CS 193 Homework
 
 My Favorite Things about CS 193:
 - The instructors seem to really know what they're talking about!
